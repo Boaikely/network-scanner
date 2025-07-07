@@ -1,0 +1,13 @@
+IP Address,MAC Address,Device Type,Open Ports
+192.168.5.16,a2:50:f2:8b:a6:cf,Unknown Vendor (Linux (SSH) 🐧),22
+192.168.5.1,0c:ac:8a:cf:bf:4a,Unknown Vendor (Unknown 💭),None
+192.168.5.15,40:2f:86:a1:b0:58,Unknown Vendor (Unknown 💭),None
+192.168.5.24,68:4e:05:fe:64:f1,Unknown Vendor (Unknown 💭),80
+192.168.5.29,64:6c:80:5c:66:c1,Unknown Vendor (Unknown 💭),"80, 443"
+192.168.5.13,92:ac:45:1c:de:37,Unknown Vendor (Unknown 💭),None
+192.168.5.11,1a:84:37:52:03:9e,Unknown Vendor (Unknown 💭),None
+192.168.5.19,8a:2a:d4:02:30:49,Unknown Vendor (Unknown 💭),None
+192.168.5.20,52:8a:7e:d6:dc:f2,Unknown Vendor (Unknown 💭),None
+192.168.5.17,ec:8e:77:3c:ec:7c,Unknown Vendor (Unknown 💭),None
+192.168.5.18,50:a6:d8:95:43:a6,Unknown Vendor (Unknown 💭),None
+192.168.5.88,9c:37:cb:16:39:9b,Unknown Vendor (Unknown 💭),None
